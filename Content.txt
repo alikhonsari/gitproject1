@@ -1,0 +1,1 @@
+content of the test file for second project of the git course
