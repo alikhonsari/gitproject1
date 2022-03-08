@@ -4,6 +4,7 @@ test file 1
 test file 1
 test file 1
 test file 1
+<<<<<<< HEAD
 test file 2
 test file 2
 test file 2
@@ -13,3 +14,8 @@ test file 2
 test file 2
 test file 2
 test file 2
+=======
+test file 1
+test file 1
+test file 1
+>>>>>>> feature-1
